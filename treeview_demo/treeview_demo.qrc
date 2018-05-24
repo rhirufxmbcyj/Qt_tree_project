@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/treeview_demo">
+        <file>test.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/treeview_delegate">
+        <file>test.ico</file>
+    </qresource>
+</RCC>
